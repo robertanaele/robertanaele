@@ -23,6 +23,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/robertanaele/Threat-hunting-scenario-tor/tree/main)**
+- 
+- **[Scattered-Invoice---Threat-Hunt](https://github.com/robertanaele/Scattered-Invoice---Threat-Hunt/tree/main)**
 
 
 ### 🔗 Connect With Me
