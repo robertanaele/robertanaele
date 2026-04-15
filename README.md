@@ -25,7 +25,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/robertanaele/Threat-hunting-scenario-tor/tree/main)**
 
 
-## 🔗 Connect With Me
+### 🔗 Connect With Me
 
-(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robert14786/) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robert14786/)
