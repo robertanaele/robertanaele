@@ -28,5 +28,5 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🔗 Connect With Me
 
-[!(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robert14786/) 
+(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robert14786/) 
 
