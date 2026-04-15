@@ -1,7 +1,18 @@
 # <a href="https://www.linkedin.com/in/robert14786/">Robert Anaele </a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-@Satvinder Sihra, you aren't seeing the full list because either your login info is wrong, Azure is blocking the connection, or the VM's own firewall is stopping the scan; please check these three things.
+### 🛠️ Tools & Technologies
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Tenable Nessus](https://img.shields.io/badge/Tenable_Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NIST](https://img.shields.io/badge/NIST_Framework-003366?style=for-the-badge&logoColor=white)
+![CIS Controls](https://img.shields.io/badge/CIS_Controls-1A1A2E?style=for-the-badge&logoColor=white)
+
+---
 
 ## ⚠️ Vulnerability Management Projects
 
