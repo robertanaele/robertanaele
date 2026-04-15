@@ -1,5 +1,5 @@
-# <a href="https://www.linkedin.com/in/robert14786/">Robert Anaele's </a>🔐
-#Cybersecurity Engineer | Cloud Security Operation | <a href="https://www.credly.com/badges/8ab2d4d6-c963-487f-a612-651e221c6434">CompTIA Security+</a> | <a href="https://www.credly.com/badges/271c705e-999a-4c8e-8fe9-807474bc7896/public_url">ISC² CC</a>| Software Developer | IT Support Engineer | Systems Administrator.
+## <a href="https://www.linkedin.com/in/robert14786/">Robert Anaele's </a>🔐
+Cybersecurity Engineer | Cloud Security Operation | <a href="https://www.credly.com/badges/8ab2d4d6-c963-487f-a612-651e221c6434">CompTIA Security+</a> | <a href="https://www.credly.com/badges/271c705e-999a-4c8e-8fe9-807474bc7896/public_url">ISC² CC</a>| Software Developer | IT Support Engineer | Systems Administrator.
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 ### 🛠️ Tools & Technologies
@@ -26,7 +26,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 [!(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robert14786/) 
 
